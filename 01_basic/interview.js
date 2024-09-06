@@ -21,5 +21,26 @@
  console.log(bigNumber);
 
 
+ // some example of Non PrimitiveDataTypes
+
+// // Array, Objects, Functions
+const heros = ["kingKhan", "salmanKhan", "amirKhan"]
+let object = {
+    Name: "mukesh",
+    age: 22,
+    address: "kathmandu"
+
+}
+
+console.table(object);
+/*................ all NON PRIMITIVE TYPE have Function dataTypes..................*/
+
+
+// function(){
+//     console.log("hello mukesh");
+    
+// }
+
+
 
 
